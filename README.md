@@ -1,4 +1,4 @@
-# Oasis 4-Week Data Analytics & Machine Learning Project
+# Oasis Infobyte Data Analytics & Machine Learning Project
 
 ## Overview
 This repository contains a series of weekly projects focused on data analytics and machine learning, covering customer segmentation, sentiment analysis, data cleaning, fraud detection, house price prediction, wine quality prediction, and more. Each week explores different datasets and techniques, providing hands-on experience with real-world data science problems.
